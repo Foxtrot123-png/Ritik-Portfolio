@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "masterPortfolio",
+  "name": "RitikPortfolio",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://Foxtrot123-png.github.io",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
