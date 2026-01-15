@@ -14,7 +14,7 @@ export default class Main extends Component {
   // --- ADDED THIS SECTION FOR VISITOR COUNTING ---
   componentDidMount() {
     // This hits the "up" endpoint to add +1 to the count
-    fetch("https://api.counterapi.dev/v1/ritik-portfolio/visits/up")
+    fetch("https://api.counterapi.dev/v1/foxtrot-reset-007/visits/up")
       .then((res) => res.json())
       .then((data) => console.log("Visitor counted! New count:", data.count))
       .catch((err) => console.error("Counter error:", err));
