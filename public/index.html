@@ -106,37 +106,7 @@
         }
       })(window.location);
     </script>
-    <script type="module">
-      
-      // 1. Import Firebase libraries
-      import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-app.js";
-      import { getDatabase, ref, set, increment } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-database.js";
-
-      // 2. Your specific Firebase Config
-      const firebaseConfig = {
-        apiKey: "AIzaSyBYfhkQJwER2wX6Xh65vvcyGZVtadIG_Js",
-        authDomain: "ritik-portfolio-stats.firebaseapp.com",
-        databaseURL: "https://ritik-portfolio-stats-default-rtdb.europe-west1.firebasedatabase.app",
-        projectId: "ritik-portfolio-stats",
-        storageBucket: "ritik-portfolio-stats.firebasestorage.app",
-        messagingSenderId: "878907292377",
-        appId: "1:878907292377:web:26c81d649726692f995cc8"
-      };
-
-      // 3. Initialize App and Database
-      const app = initializeApp(firebaseConfig);
-      const db = getDatabase(app);
-
-      // 4. Target the "value" node and add 1
-      const countRef = ref(db, 'value');
-      set(countRef, increment(1))
-        .then(() => {
-          console.log("Visitor counted successfully!");
-        })
-        .catch((error) => {
-          console.error("Firebase Error: ", error);
-        });
-    </script>
+    
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
