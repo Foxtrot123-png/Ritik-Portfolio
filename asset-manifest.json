@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ritik-Portfolio/static/css/main.71dce618.chunk.css",
-    "main.js": "/Ritik-Portfolio/static/js/main.d40c353d.chunk.js",
-    "main.js.map": "/Ritik-Portfolio/static/js/main.d40c353d.chunk.js.map",
+    "main.css": "/Ritik-Portfolio/static/css/main.9ae17815.chunk.css",
+    "main.js": "/Ritik-Portfolio/static/js/main.f377d4d2.chunk.js",
+    "main.js.map": "/Ritik-Portfolio/static/js/main.f377d4d2.chunk.js.map",
     "runtime-main.js": "/Ritik-Portfolio/static/js/runtime-main.36c7555a.js",
     "runtime-main.js.map": "/Ritik-Portfolio/static/js/runtime-main.36c7555a.js.map",
     "static/js/2.b32e71b1.chunk.js": "/Ritik-Portfolio/static/js/2.b32e71b1.chunk.js",
     "static/js/2.b32e71b1.chunk.js.map": "/Ritik-Portfolio/static/js/2.b32e71b1.chunk.js.map",
     "index.html": "/Ritik-Portfolio/index.html",
-    "precache-manifest.7f11d4038743b9aa77113256bfdeb522.js": "/Ritik-Portfolio/precache-manifest.7f11d4038743b9aa77113256bfdeb522.js",
+    "precache-manifest.1904a4b5e9d4df84226309a56b58b65c.js": "/Ritik-Portfolio/precache-manifest.1904a4b5e9d4df84226309a56b58b65c.js",
     "service-worker.js": "/Ritik-Portfolio/service-worker.js",
-    "static/css/main.71dce618.chunk.css.map": "/Ritik-Portfolio/static/css/main.71dce618.chunk.css.map",
+    "static/css/main.9ae17815.chunk.css.map": "/Ritik-Portfolio/static/css/main.9ae17815.chunk.css.map",
     "static/media/index.css": "/Ritik-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/PROFILKE_.jpg": "/Ritik-Portfolio/static/media/PROFILKE_.bdcf1210.jpg",
     "static/media/University_of_Hertfordshire_logo.png": "/Ritik-Portfolio/static/media/University_of_Hertfordshire_logo.9af7b85d.png",
@@ -27,7 +27,7 @@
     "static/media/education.svg": "/Ritik-Portfolio/static/media/education.3bab7a9d.svg",
     "static/media/experience.svg": "/Ritik-Portfolio/static/media/experience.a00ede3f.svg",
     "static/media/all.css": "/Ritik-Portfolio/static/media/fa-solid-900.8e4a6dcc.eot",
-    "static/media/feelingProud.svg": "/Ritik-Portfolio/static/media/feelingProud.017d5892.svg",
+    "static/media/feelingProud.svg": "/Ritik-Portfolio/static/media/feelingProud.aa34198c.svg",
     "static/media/feelingProud.png": "/Ritik-Portfolio/static/media/feelingProud.c446a193.png",
     "static/media/fullstack.svg": "/Ritik-Portfolio/static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "/Ritik-Portfolio/static/media/gcp_logo.0ee7e8c9.png",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.36c7555a.js",
     "static/js/2.b32e71b1.chunk.js",
-    "static/css/main.71dce618.chunk.css",
-    "static/js/main.d40c353d.chunk.js"
+    "static/css/main.9ae17815.chunk.css",
+    "static/js/main.f377d4d2.chunk.js"
   ]
 }
