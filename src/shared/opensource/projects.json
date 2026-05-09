@@ -1,1 +1,45 @@
-{"data":[{"id":"R_kgDOOwAO5A","name":"Multi-modal-instagram-fake-account-detection","createdAt":"2025-05-25T01:30:40Z","url":"https://github.com/Foxtrot123-png/Multi-modal-instagram-fake-account-detection","description":"Msc  Project","isFork":false,"languages":[{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"},{"name":"Python","iconifyClass":"logos-python"}]},{"id":"R_kgDOOP3rrw","name":"Vulnerability-Scanner-Extension-","createdAt":"2025-03-27T19:59:20Z","url":"https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension-","description":"This is a project on making a chrome extention that acts as an automated vulnerability scanner ","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]}]}
+{
+  "data": [
+    {
+      "id": "R_kgDOOwAO5A",
+      "name": "Multi-modal-News-Bias-Detection-and-Analyzing-LLM-performance-for-debiasing",
+      "createdAt": "2025-05-25T01:30:40Z",
+      "url": "https://github.com/Foxtrot123-png/Multi-modal-News-Bias-Detection-and-Analyzing-LLM-performance-for-debiasing",
+      "description": "Msc  Project",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOOP3rrw",
+      "name": "Vulnerability-Scanner-Extension",
+      "createdAt": "2025-03-27T19:59:20Z",
+      "url": "https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension",
+      "description": "This is a project on making a chrome extention that acts as an automated vulnerability scanner ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDORviSkA",
+      "name": "Me.io",
+      "createdAt": "2026-03-24T14:30:39Z",
+      "url": "https://github.com/Foxtrot123-png/Me.io",
+      "description": "A production-grade Agentic RAG system with automated GDPR/Cybersecurity guardrails, orchestrated via n8n and self-hosted on Raspberry Pi 5.",
+      "isFork": false,
+      "languages": []
+    }
+  ]
+}

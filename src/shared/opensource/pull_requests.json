@@ -1,1 +1,104 @@
-{"data":[{"id":"PR_kwDOOP3rr86WkGpx","title":"Update sql.py","url":"https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension-/pull/6","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/66312252?v=4","url":"https://github.com/Foxtrot123-png","login":"Foxtrot123-png"},"createdAt":"2025-05-17T12:15:26Z","number":6,"changedFiles":1,"additions":1,"deletions":2,"baseRepository":{"name":"Vulnerability-Scanner-Extension-","url":"https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension-","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/66312252?v=4","login":"Foxtrot123-png","url":"https://github.com/Foxtrot123-png"}}},{"id":"PR_kwDOOP3rr86Qjiiz","title":"Delete SQL Injection","url":"https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension-/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/66312252?v=4","url":"https://github.com/Foxtrot123-png","login":"Foxtrot123-png"},"createdAt":"2025-03-28T12:54:51Z","number":1,"changedFiles":1,"additions":0,"deletions":1,"baseRepository":{"name":"Vulnerability-Scanner-Extension-","url":"https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension-","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/66312252?v=4","login":"Foxtrot123-png","url":"https://github.com/Foxtrot123-png"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDQ2OTYwMTUw","title":"Add Ritik to Contributors list","url":"https://github.com/firstcontributions/first-contributions/pull/28646","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/65761570?u=640f39b808c75c6b86460aa907dd030bcca2f3c7&v=4","url":"https://github.com/firstcontributions-bot","login":"firstcontributions-bot"},"createdAt":"2020-07-09T16:13:45Z","number":28646,"changedFiles":1,"additions":1,"deletions":0,"baseRepository":{"name":"first-contributions","url":"https://github.com/firstcontributions/first-contributions","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/37713493?v=4","login":"firstcontributions","url":"https://github.com/firstcontributions"}}}],"open":0,"closed":0,"merged":3,"totalCount":3}
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "PR_kwDODqGIis69Pd1F",
+      "title": "Updates",
+      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/430",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2026-01-14T20:50:23Z",
+      "number": 430,
+      "changedFiles": 155,
+      "additions": 931,
+      "deletions": 9532,
+      "baseRepository": {
+        "name": "masterPortfolio",
+        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6367ff9f62224bc720e425a5bb85dca377a75093&v=4",
+          "login": "ashutosh1919",
+          "url": "https://github.com/ashutosh1919"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOP3rr86WkGpx",
+      "title": "Update sql.py",
+      "url": "https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66312252?v=4",
+        "url": "https://github.com/Foxtrot123-png",
+        "login": "Foxtrot123-png"
+      },
+      "createdAt": "2025-05-17T12:15:26Z",
+      "number": 6,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Vulnerability-Scanner-Extension",
+        "url": "https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/66312252?v=4",
+          "login": "Foxtrot123-png",
+          "url": "https://github.com/Foxtrot123-png"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOOP3rr86Qjiiz",
+      "title": "Delete SQL Injection",
+      "url": "https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66312252?v=4",
+        "url": "https://github.com/Foxtrot123-png",
+        "login": "Foxtrot123-png"
+      },
+      "createdAt": "2025-03-28T12:54:51Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Vulnerability-Scanner-Extension",
+        "url": "https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/66312252?v=4",
+          "login": "Foxtrot123-png",
+          "url": "https://github.com/Foxtrot123-png"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ2OTYwMTUw",
+      "title": "Add Ritik to Contributors list",
+      "url": "https://github.com/firstcontributions/first-contributions/pull/28646",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65761570?u=640f39b808c75c6b86460aa907dd030bcca2f3c7&v=4",
+        "url": "https://github.com/firstcontributions-bot",
+        "login": "firstcontributions-bot"
+      },
+      "createdAt": "2020-07-09T16:13:45Z",
+      "number": 28646,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "first-contributions",
+        "url": "https://github.com/firstcontributions/first-contributions",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37713493?v=4",
+          "login": "firstcontributions",
+          "url": "https://github.com/firstcontributions"
+        }
+      }
+    }
+  ],
+  "merged": 3,
+  "open": 0,
+  "totalCount": 4
+}

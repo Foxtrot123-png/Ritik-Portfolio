@@ -1,1 +1,27 @@
-{"data":[{"id":"I_kwDOOP3rr86wMlYR","closed":false,"title":"Nee to refine it more for different websites","createdAt":"2025-03-28T12:57:29Z","url":"https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension-/issues/2","number":2,"assignees":{"nodes":[]},"repository":{"name":"Vulnerability-Scanner-Extension-","url":"https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension-","owner":{"login":"Foxtrot123-png","avatarUrl":"https://avatars.githubusercontent.com/u/66312252?v=4","url":"https://github.com/Foxtrot123-png"}}}],"open":1,"closed":0,"totalCount":1}
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "I_kwDOOP3rr86wMlYR",
+      "closed": false,
+      "title": "Nee to refine it more for different websites",
+      "createdAt": "2025-03-28T12:57:29Z",
+      "url": "https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Vulnerability-Scanner-Extension",
+        "url": "https://github.com/Foxtrot123-png/Vulnerability-Scanner-Extension",
+        "owner": {
+          "login": "Foxtrot123-png",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/66312252?v=4",
+          "url": "https://github.com/Foxtrot123-png"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 1
+}

@@ -286,7 +286,7 @@ const experience = {
           color: "#000000",
         },
         {
-          title: "Data Analyst / Data Engineer",
+          title: "Data Scientist | Data Engineer",
           company: "Deloitte USI Ltd.",
           company_url: "https://www2.deloitte.com/",
           logo_path: "deloitte_logo.png",
