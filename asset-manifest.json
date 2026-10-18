@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Ritik-Portfolio/static/css/main.71dce618.chunk.css",
-    "main.js": "/Ritik-Portfolio/static/js/main.5cc945b8.chunk.js",
-    "main.js.map": "/Ritik-Portfolio/static/js/main.5cc945b8.chunk.js.map",
+    "main.js": "/Ritik-Portfolio/static/js/main.245392c6.chunk.js",
+    "main.js.map": "/Ritik-Portfolio/static/js/main.245392c6.chunk.js.map",
     "runtime-main.js": "/Ritik-Portfolio/static/js/runtime-main.36c7555a.js",
     "runtime-main.js.map": "/Ritik-Portfolio/static/js/runtime-main.36c7555a.js.map",
     "static/js/2.abca79a1.chunk.js": "/Ritik-Portfolio/static/js/2.abca79a1.chunk.js",
     "static/js/2.abca79a1.chunk.js.map": "/Ritik-Portfolio/static/js/2.abca79a1.chunk.js.map",
     "index.html": "/Ritik-Portfolio/index.html",
-    "precache-manifest.aa78171e99386ed3f0a7987a51e19334.js": "/Ritik-Portfolio/precache-manifest.aa78171e99386ed3f0a7987a51e19334.js",
+    "precache-manifest.55f025bb952d669a0b66982cb2e85f7b.js": "/Ritik-Portfolio/precache-manifest.55f025bb952d669a0b66982cb2e85f7b.js",
     "service-worker.js": "/Ritik-Portfolio/service-worker.js",
     "static/css/main.71dce618.chunk.css.map": "/Ritik-Portfolio/static/css/main.71dce618.chunk.css.map",
     "static/media/index.css": "/Ritik-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -17,7 +17,6 @@
     "static/media/address_image.svg": "/Ritik-Portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/Ritik-Portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/Ritik-Portfolio/static/media/animated_logo.dcd6dee2.svg",
-    "static/media/ark.jpg": "/Ritik-Portfolio/static/media/ark.d6954378.jpg",
     "static/media/blogs_image.svg": "/Ritik-Portfolio/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/Ritik-Portfolio/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/Ritik-Portfolio/static/media/codeInLogo.fee92c18.png",
@@ -60,6 +59,6 @@
     "static/js/runtime-main.36c7555a.js",
     "static/js/2.abca79a1.chunk.js",
     "static/css/main.71dce618.chunk.css",
-    "static/js/main.5cc945b8.chunk.js"
+    "static/js/main.245392c6.chunk.js"
   ]
 }
