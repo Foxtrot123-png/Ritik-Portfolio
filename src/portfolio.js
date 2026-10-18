@@ -1,4 +1,4 @@
-/* Change this file to get your personal Porfolio */
+/* Change this file to get your personal Portfolio */
 
 // Website related settings
 const settings = {
@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ritik's Portfolio",
+  title: "Ritik R Mohapatra | Data & Machine Learning Engineer",
   description:
-    "Machine Learning Engineer (MSc Distinction). I specialize in building scalable infrastructure and processing high-frequency transaction data to turn messy consumer data into reliable operational insights.",
+    "Data and machine learning engineer, MSc Data Science with Distinction. I migrate HR data for 38 schools onto iTrent at Ark Schools using Azure Data Factory and Databricks. Before that I built pipelines at Deloitte that carried 22 million transaction records. On the side I build NLP systems, including a retrieval chatbot that runs on my own hardware.",
   og: {
-    title: "Ritik R Mohapatra's Portfolio",
+    title: "Ritik R Mohapatra | Data & Machine Learning Engineer",
     type: "website",
     url: "https://github.com/Foxtrot123-png",
   },
@@ -23,10 +23,10 @@ const greeting = {
   logo_name: "RitikRMohapatra",
   nickname: "Kragster",
   subTitle:
-    "Machine Learning Engineer (MSc Distinction). I specialize in building scalable infrastructure (Azure/Docker) and processing high-frequency transaction data. From migrating 22 million records at Deloitte to architecting Agentic AI workflows, I turn raw data into reliable operational insights.",
+    "Data and machine learning engineer. MSc Data Science with Distinction. By day I migrate HR data for 38 schools onto iTrent at Ark Schools, working in Azure Data Factory and Databricks. Before that I built pipelines at Deloitte that carried 22 million transaction records. My evenings go on NLP: a retrieval chatbot I host on a Raspberry Pi at home, and language models written from scratch in NumPy and PyTorch.",
   resumeLink:
     "https://docs.google.com/document/d/1jWxeCl0QjrrbSc_T0HWQk9fK1kLJZKOd/edit?usp=drive_link&ouid=111289477077932397351&rtpof=true&sd=true",
-  portfolio_repository: "https://github.com/Foxtrot123-png/masterPortfolio#",
+  portfolio_repository: "https://github.com/Foxtrot123-png/Ritik-Portfolio",
   githubProfile: "https://github.com/Foxtrot123-png",
 };
 
@@ -54,13 +54,13 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "AI, Machine Learning & Generative AI",
+      title: "AI, Machine Learning & NLP",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Architecting Agentic AI workflows and RAG systems for autonomous documentation querying",
-        "⚡ Developing Multi-Modal Bias Detection Systems using BERT and ResNet-34",
+        "⚡ I build retrieval systems from the ground up: TF-IDF, BM25 and embeddings, wired into a working RAG chatbot that I host myself",
+        "⚡ Language models written from scratch in NumPy and PyTorch, starting from bigram counts and working up",
+        "⚡ Multi-modal bias detection with BERT and ResNet-34, built for my MSc dissertation",
         "⚡ Certified in OCI Generative AI and OCI Data Science",
-        "⚡ Benchmarking LLM performance and reducing hallucinations",
       ],
       softwareSkills: [
         {
@@ -104,10 +104,10 @@ const skills = {
       title: "Data Engineering & Cloud Infrastructure",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Engineered production-grade data pipelines for 22 million transaction records",
-        "⚡ Optimizing SQL and Python scripts to reduce manual processing time by 40%",
-        "⚡ Designing anomaly detection logic to identify data quality issues upstream",
-        "⚡ Hands-on experience with Azure, Oracle Cloud, and CI/CD pipelines",
+        "⚡ I am migrating HR data for 38 schools at Ark, built on Azure Data Factory, Databricks and DevOps",
+        "⚡ At Deloitte I ran production pipelines that carried 22 million transaction records",
+        "⚡ SQL and Python tuning that cut reporting time by 40%",
+        "⚡ Anomaly checks that catch data quality problems before they reach the load",
       ],
       softwareSkills: [
         {
@@ -125,10 +125,10 @@ const skills = {
           },
         },
         {
-          skillName: "Oracle Cloud",
-          fontAwesomeClassname: "simple-icons:oracle",
+          skillName: "Databricks",
+          fontAwesomeClassname: "simple-icons:databricks",
           style: {
-            color: "#F80000",
+            color: "#FF3621",
           },
         },
         {
@@ -190,7 +190,7 @@ const degrees = {
       duration: "Sept 2024 - Sept 2025",
       descriptions: [
         "⚡ Result: Distinction",
-        "⚡ Focusing on Machine Learning, AI, and Advanced Data Analytics.",
+        "⚡ Focus on machine learning, AI and advanced data analytics.",
       ],
       website_link: "https://www.herts.ac.uk/",
     },
@@ -202,8 +202,8 @@ const degrees = {
       duration: "July 2018 - May 2022",
       descriptions: [
         "⚡ Secured 8.02 CGPA.",
-        "⚡ Founded the IEEE Student Branch to bridge the gap between academic theory and industry tech.",
-        "⚡ Organized large-scale workshops on Embedded Systems and IoT.",
+        "⚡ Founded the IEEE Student Branch so students could get closer to industry tech.",
+        "⚡ Ran large workshops on embedded systems and IoT.",
       ],
       website_link: "https://www.vssut.ac.in/",
     },
@@ -265,7 +265,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "My career is defined by action. From managing high-frequency transaction data at Deloitte to architecting Agentic AI workflows at CoreDefense.",
+    "Migration work at Ark Schools, data pipelines at Deloitte, and AI research on the side.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -273,16 +273,25 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Data Migration Officer",
+          company: "Ark Schools",
+          logo_path: "ark.jpg",
+          company_url: "https://arkonline.org/",
+          duration: "May 2026 – Present",
+          location: "London, UK",
+          description:
+            "I am migrating HR and payroll data for 38 schools from Cezanne into iTrent. The pipelines run on Azure Data Factory, Databricks and Azure DevOps, and every batch goes through validation checks before it loads.",
+          color: "#8C1D40",
+        },
+        {
           title: "AI Research Affiliate (Advisory)",
           company: "CoreDefense",
           company_url: "",
-          // Using google_logo.png because we know it exists.
-          // Replace with "coredefense_logo.png" only AFTER you add that image to your folder.
           logo_path: "coredefense_logo.jpg",
           duration: "Nov 2025 – Present",
           location: "Remote",
           description:
-            "Architecting Agentic AI workflows that autonomously query documentation (RAG) and validate outputs. Benchmarking LLM performance and reducing hallucinations.",
+            "I advise on agentic AI workflows that query documentation through RAG and check their own outputs. I also benchmark LLMs and work on cutting hallucination rates.",
           color: "#000000",
         },
         {
@@ -293,7 +302,7 @@ const experience = {
           duration: "July 2022 – July 2024",
           location: "Hyderabad, India",
           description:
-            "Engineered production-grade data pipelines for 22 million transaction records. Optimized SQL queries to reduce reporting latency by 40% and designed anomaly detection logic ensuring 100% data integrity.",
+            "I built production pipelines that carried 22 million transaction records. I tuned SQL and Python jobs so reports ran 40% faster, and wrote anomaly checks that caught data problems before they reached the warehouse.",
           color: "#86BC25",
         },
       ],
@@ -311,7 +320,7 @@ const experience = {
           duration: "Jun 2019 - July 2019",
           location: "New Delhi, India",
           description:
-            "Conducted early-stage research on Zigbee Technology and IoT protocols. Delivered comprehensive documentation and technical presentations to senior engineering teams.",
+            "I researched Zigbee and IoT protocols at an early stage and wrote up the findings for the senior engineering team, then presented them.",
           color: "#00ADEF",
         },
         {
@@ -322,7 +331,7 @@ const experience = {
           duration: "Apr 2019 - Dec 2020",
           location: "Cuttack, Odisha",
           description:
-            "Took on a management role while studying, overseeing the training and performance of 12+ interns. Simultaneously provided mathematics and programming tuition to underprivileged students.",
+            "While studying, I managed the training of 12 interns and taught maths and programming to students who could not afford tuition.",
           color: "#000000",
         },
         {
@@ -333,7 +342,7 @@ const experience = {
           duration: "Jun 2023 - Dec 2023",
           location: "Hyderabad, Telangana",
           description:
-            "Regular visits and a love for animals contributed to the well-being of animals through regular visits and maintained health and surroundings with care.",
+            "I visited the shelter regularly to feed the animals and keep their enclosures clean.",
           color: "#005baa",
         },
         {
@@ -343,7 +352,7 @@ const experience = {
           duration: "April 2019 – December 2019",
           location: "Cuttack, Odisha",
           description:
-            "Taught kids from unprivileged parts of society and successfully developed 10+ projects using basic tools.",
+            "I taught kids from underprivileged parts of society and built 10+ small projects with them using basic tools.",
           color: "#0071C5",
         },
       ],
@@ -355,7 +364,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "Focusing on high-impact Technical Projects including: 1) A Multi-Modal Bias Detection System using BERT & ResNet-34, and 2) A Vulnerability Scanner for Google Chrome Extensions identifying SQLi and XSS threats.",
+    "Current work: Ritik.io, a retrieval chatbot I built and host on a Raspberry Pi 5, and a ladder of language models written from scratch in NumPy. From my MSc: a multi-modal bias detection system using BERT and ResNet-34.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -376,12 +385,12 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "PROFILKE_.jpg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Data Science, Machine Learning, and Cloud Infrastructure.",
+      "You can reach me on any of these and I usually reply within a day. Happy to talk about data engineering, machine learning, or anything you see on this site.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.But its still not ready yet . Will be adding it shortly",
+      "Write-ups from work and side projects. Coming soon.",
     link: "",
     avatar_image_path: "blogs_image.svg",
   },
