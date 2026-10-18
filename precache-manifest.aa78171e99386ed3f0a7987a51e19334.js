@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce5963317ac9f109ae6c6ee5049f54d8",
+    "revision": "cadfb748a307678c4722a975a0df8336",
     "url": "/Ritik-Portfolio/index.html"
   },
   {
-    "revision": "5e3cea194086424e4bb1",
+    "revision": "85e71088f4e85e55d2ca",
     "url": "/Ritik-Portfolio/static/css/main.71dce618.chunk.css"
   },
   {
-    "revision": "4940114d3170c2fd12c0",
-    "url": "/Ritik-Portfolio/static/js/2.b32e71b1.chunk.js"
+    "revision": "16eba99c6cc52a341fa3",
+    "url": "/Ritik-Portfolio/static/js/2.abca79a1.chunk.js"
   },
   {
-    "revision": "5e3cea194086424e4bb1",
-    "url": "/Ritik-Portfolio/static/js/main.f5d64ae0.chunk.js"
+    "revision": "85e71088f4e85e55d2ca",
+    "url": "/Ritik-Portfolio/static/js/main.5cc945b8.chunk.js"
   },
   {
     "revision": "356ccd7861e2528a7d12",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "/Ritik-Portfolio/static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "d6954378409c68db3fd53159545e9ce4",
+    "url": "/Ritik-Portfolio/static/media/ark.d6954378.jpg"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
